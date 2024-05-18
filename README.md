@@ -21,3 +21,6 @@ Optionally, you can then disable developer mode once installed and enabled.
 * Right click
 * Choose CCCHSearch on the right-click menu and select where you'd like to search
 * A new tab will open with the search
+
+  ![image](https://github.com/SeanFirth/CCCHSearch/assets/9383627/f9b34816-cade-4fd1-ba28-51fce100b428)
+
