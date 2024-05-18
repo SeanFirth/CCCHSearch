@@ -7,8 +7,8 @@ Saves valuable time for fundraisers (or others who need to regularly check out t
 
 Extension should work in any Chromium-based browser (Chrome, Edge, Vivaldi, Brave, etc)
 
-* Download the zip file and unzip
-* Go to Extensions page - chrome://extensions, edge://extensions
+* Download the zip file - [click here to download](https://github.com/SeanFirth/CCCHSearch/raw/main/CCCHSearch.zip) and unzip
+* Go to browser Extensions page - chrome://extensions, edge://extensions
 * Enable developer mode (Chrome, this is the top-right corner. Edge, this is on the left-hand side)
 * Select 'load unpacked' and select the unzipped folder
 * Ensure the extension is enabled
