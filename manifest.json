@@ -6,7 +6,7 @@
     "action": {
       "default_icon": "icon128.png"
     },
-    "permissions": ["activeTab", "scripting", "contextMenus"],
+    "permissions": ["activeTab", "contextMenus"],
     "background": {
         "service_worker": "background.js"
     },
